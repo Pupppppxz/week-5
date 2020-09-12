@@ -9,6 +9,7 @@ int main()
 {
 	int number[6];
 	int i;
+	printf("Enter 6 integer number");
 	for (i = 0; i < 6; i++) 
 	{
 		printf("Enter the positive integer [%d] : ",i+1);
